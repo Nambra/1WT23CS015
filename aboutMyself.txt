@@ -5,4 +5,11 @@ Semester:Third
 Section:B
 Branch:Computer science
 Year of Admission:2023
+<<<<<<< HEAD
 College Name: GITW
+=======
+College Name:GITW
+UG Degree:SSLC
+PG Degree:PUC
+Phd Degree:Computer Science
+>>>>>>> feature-branch
